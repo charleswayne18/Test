@@ -1,0 +1,29 @@
+html{
+    background-color: rgb(211, 211, 110);
+}
+
+h1{
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: 500;
+  text-transform: uppercase;
+  text-align: center;
+  color:  rgb(36, 36, 130);
+}
+
+a{
+    color: black;
+}
+
+h2{
+    font-family: cursive;
+}
+
+section{
+    text-align: center; 
+}
+
+article{
+    background-color: rgb(36, 36, 130);
+    color: white;
+}
+
